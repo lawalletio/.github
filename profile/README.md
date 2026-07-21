@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><strong>Open-source Lightning Address platform — self-custodial ⚡ Bitcoin payments over Nostr.</strong></p>
+<p align="center"><strong>Open-source Lightning Address + Nostr platform — self-custodial ⚡ via NWC.</strong></p>
 
 <p align="center">
   <a href="https://lawallet.io">🌐 Website</a> ·
